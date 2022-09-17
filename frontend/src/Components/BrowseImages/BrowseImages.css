@@ -1,0 +1,13 @@
+img {
+    margin: 5px;
+}
+
+input {
+    display: block;
+}
+
+.BrowseImages>label {
+    font-size: small;
+    color: red;
+}
+
